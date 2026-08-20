@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Coral Todos",
+    "slug": "coral-todos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "coral-todos",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": ["expo-router", "expo-sqlite"],
+    "splash": {
+      "backgroundColor": "#FF5F67",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FF5F67"
+      },
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
